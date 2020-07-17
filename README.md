@@ -7,3 +7,5 @@ I have a personal website called https://www.ynewtime.com, which links to my not
 Also, I believe in the the power of design, which makes the world a better place, and always practice to design with ❤️.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ynewtime.ynewtime)
+
+[![Ynewtime's github stats](https://github-readme-stats.vercel.app/api?username=Ynewtime)](https://github.com/Ynewtime/)
